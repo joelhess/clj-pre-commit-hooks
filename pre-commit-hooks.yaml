@@ -1,3 +1,0 @@
--   id: cljfmt-lein-docker
-    name: cljfmt
-    language: docker

@@ -1,0 +1,4 @@
+-   id: cljfmt-lein-docker
+    name: cljfmt
+    language: docker
+    entry: lein cljfmt check
